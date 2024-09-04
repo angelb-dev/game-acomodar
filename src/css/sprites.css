@@ -1,0 +1,29 @@
+.sprite {
+  position: absolute;
+  z-index: 2;
+}
+
+#poste {
+  left: -12%;
+  top: 56%;
+  transform: translateY(-50%);
+  width: 44%;
+}
+
+#box-toy {
+  width: 26%;
+  left: 16%;
+  top: 89%;
+  transform: translateY(-50%);
+}
+
+.toy {
+  width: 12%;
+  top: 10%;
+  right: 10%;
+}
+
+.sprite img {
+  max-width: 100%;
+  max-height: 100%;
+}

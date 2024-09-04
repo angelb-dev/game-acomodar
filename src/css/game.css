@@ -1,0 +1,21 @@
+#display {
+  background-color: lightcyan;
+  max-width: 900px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
+
+#background {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
