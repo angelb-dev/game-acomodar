@@ -4,7 +4,7 @@ import './css/sprites.css'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <h1>Videojuego acomodar</h1>
+    <h1>Toy Catch and Arrange</h1>
   </div>
 
   <div id="display">
